@@ -1,3 +1,5 @@
+> **Note:** the 50 images referenced below (`images/image1.png` … `images/image50.png`) were not included in the original upload, so those image links are intentionally left broken.
+
 # UNIFNISHED- WAIT TILL ANTOZ RECOVERY
 
 Designs would be provided by BetterContact team.  
